@@ -1,0 +1,9 @@
+# Generated
+.next
+out
+build
+coverage
+
+# Tooling
+.agents
+.claude
